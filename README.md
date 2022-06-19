@@ -1,30 +1,15 @@
-# Warbler  (WIP)
-Bootcamp Project: A Twitter clone with a spin
-
-## Usage
-* Users can create an account
-## Contributions
-* Create database using Flask-SQLAlchemy
-* Create forms using Flask-WTF
-* Backend server routes
-* Wrote unit and integration tests
-## Credits
-Rithm School
-## Technologies Used
-* Python
-* Flask
-* Flask-SQLAlchemy
-* Flask-WTF
-* Jinja
-
-
-# Warbler - A Twitter Clone with a spin.
+# Warbler
 
 ## Description
-Warbler is a Twitter clone built using Python, Flask, and PostgreSQL.
+Warbler is a Twitter clone built using Python, Flask, and PostgreSQL. Authentication and Authorization routes are built in.  One to Many Database Relationships have been mapped to keep track of likes, follows, and messages.  
+
+<span> <img width="35%" alt="warbler_home" src="https://user-images.githubusercontent.com/72634901/174489823-3496cbfe-1090-41c7-874d-416e69fa29de.png">
+<img width="60%" alt="warbler_users" src="https://user-images.githubusercontent.com/72634901/174490190-b32278db-1a53-430f-ad94-dc02ea8d900f.png"> </span>
 
 ## Demo
 [https://warbler-demo-8888.herokuapp.com/](https://warbler-demo-8888.herokuapp.com/)
+
+[https://warbler-demo-8888.herokuapp.com/users](https://warbler-demo-8888.herokuapp.com/)
 
 ## Getting Started
 
@@ -58,11 +43,22 @@ $ flask run -p 5001
 
 Visit [http://localhost:5001/](http://localhost:5001/) in your browser to see the results.
 `
+## Contributions
+
+* Create database using Flask-SQLAlchemy
+* Create forms using Flask-WTF
+* Backend server routes
+* Wrote unit and integration tests
+
 ## Future
 
-1. Testing
+1. More Testing
+2. Allow Private Accounts
+3. Add Admin Users
+4. User Blocking
+5. Direct Messages
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* Rithm School 
+Rithm School
+
