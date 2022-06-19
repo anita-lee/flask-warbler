@@ -7,9 +7,8 @@ Warbler is a Twitter clone built using Python, Flask, and PostgreSQL. Authentica
 <img width="60%" alt="warbler_users" src="https://user-images.githubusercontent.com/72634901/174490190-b32278db-1a53-430f-ad94-dc02ea8d900f.png"> </span>
 
 ## Demo
-[https://warbler-demo-8888.herokuapp.com/](https://warbler-demo-8888.herokuapp.com/)
 
-[https://warbler-demo-8888.herokuapp.com/users](https://warbler-demo-8888.herokuapp.com/)
+[DEMO](https://warbler-demo-8888.herokuapp.com/): Create a new profile or use 'anita' and 'testpassword' to log in with a profile that is pre-loaded with followers, messages and likes. 
 
 ## Getting Started
 
